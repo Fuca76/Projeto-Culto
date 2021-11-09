@@ -2,23 +2,18 @@ body{
     background: black
 }
 header{
-
+font: normal 15pt arial;
     color:white;
-        text-align: center;
+     text-align: center;
 }
 div{
     text-align: justify;
-
 }
 footer{
     color: white;
     text-align: center;
 }
-p{
-    font: normal 20pt verdana;
-    color: white;
-    text-align: center;
-}
+
 h3{
     font: normal 20pt;
     color: white;
