@@ -7,13 +7,12 @@ font: normal 15pt arial;
      text-align: center;
 }
 div{
-    text-align: justify;
+    text-align: center;
 }
 footer{
     color: white;
     text-align: center;
 }
-
 h3{
     font: normal 20pt;
     color: white;
